@@ -2,6 +2,8 @@
 # Cybersecurity-Roadmap
 # The Ultimate Hacker's Roadmap 2022
 
+Donwload the roadmaps here: https://github.com/0xTRAW/Cybersecurity-Roadmap/maps
+
 1. Basic Computer Skills - Computer skills refer to the knowledge and abilities required to operate computers and related technology.
   
 2. Basic Networking Skills - Networking skills are one of the most important talents to have if you want to be an ethical hacker.
