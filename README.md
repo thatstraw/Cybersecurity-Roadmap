@@ -21,3 +21,11 @@ Donwload the roadmaps here: https://github.com/0xTRAW/Cybersecurity-Roadmap/tree
 8. OSCP - This online ethical hacking course is self-paced. It introduces penetration testing tools and techniques via hands-on experience. PEN-200 trains not only the skills, but also the mindset required to be a successful penetration tester.
   
 9. Keep updating yourself - Hacking is a long time journey of learning, we must not enter just to hack wifi password or to hack someone’s phone, As time goes by there are new vulnerabilities discovered and patched, thus we must be eager to learn new things
+
+### Course Recomendations
+
+1. Basic Computer Skills:
+Comptia A+ (https://www.cbtnuggets.com/certification-playlist/comptia-a-plus)
+2. Networking Skills - ITProTV Comptia Network + (https://mega.nz/folder/bm5UUZoS#qIswiU9nj_fxK-czHMMcsA)
+3. Linux Skills - The Linux command Line and Shell Scripting Bible pdf (https://github.com/0xTRAW/Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion)
+4. Programming -  Youtube (Python)😁
