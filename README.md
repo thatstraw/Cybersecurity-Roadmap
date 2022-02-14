@@ -2,7 +2,7 @@
 # Cybersecurity-Roadmap
 # The Ultimate Hacker's Roadmap 2022
 
-Donwload the roadmaps here: https://github.com/0xTRAW/Cybersecurity-Roadmap/maps
+Donwload the roadmaps here: https://github.com/0xTRAW/Cybersecurity-Roadmap/tree/main/maps
 
 1. Basic Computer Skills - Computer skills refer to the knowledge and abilities required to operate computers and related technology.
   
