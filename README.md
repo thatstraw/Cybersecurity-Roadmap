@@ -19,6 +19,10 @@ Donwload the roadmaps here: https://github.com/0xTRAW/Cybersecurity-Roadmap/tree
 7. eJPT - The eLearnSecurity Junior Penetration Tester (eJPT) is a 100% practical certification on penetration testing and information security essentials. By passing the exam, a cyber security professional proves to employers they are ready for a rewarding new career.
   
 8. OSCP - This online ethical hacking course is self-paced. It introduces penetration testing tools and techniques via hands-on experience. PEN-200 trains not only the skills, but also the mindset required to be a successful penetration tester.
+
+or
+
+8. Practical Network Penetration Tester Certification (PNPT) -The PNPT exam is a one-of-a-kind ethical hacking certification exam that assesses a student’s ability to perform a network penetration test at a professional level.
   
 9. Keep updating yourself - Hacking is a long time journey of learning, we must not enter just to hack wifi password or to hack someone’s phone, As time goes by there are new vulnerabilities discovered and patched, thus we must be eager to learn new things
 
