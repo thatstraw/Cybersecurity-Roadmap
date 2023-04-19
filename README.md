@@ -10,9 +10,9 @@ Donwload the roadmaps here: https://github.com/0xTRAW/Cybersecurity-Roadmap/tree
   
 3. Linux Skills - Linux is the most popular choice for hackers due to its flexibility, open source platform, portability and command line interface and compatibility with popular hacking tools.
   
-4. Programming/Scripting Skills - Programming skills are essential to becoming an effective hacke. One reason you want to know how to code as a hacker is so you can modify scripts that you will use to hack into different systems
+4. Programming/Scripting Skills - Programming skills are essential to becoming an effective hacker. One reason you want to know how to code as a hacker is so you can modify scripts that you will use to hack into different systems.
   
-5. PEH by TCM - In this course, you will learn the practical side of ethical hacking. This course focus only on tools and topics that will make you successful as an ethical hacker. The course is incredibly **hands on** and will cover many foundational topics.
+5. PEH by TCM - In this course, you will learn the practical side of ethical hacking. This course focuses only on tools and topics that will make you successful as an ethical hacker. The course is incredibly **hands on** and will cover many foundational topics.
   
 6. Practise with vulnerable labs (Tryhackme/Hackthebox/Vulnhub)
   
@@ -24,7 +24,7 @@ or
 
 8. Practical Network Penetration Tester Certification (PNPT) -The PNPT exam is a one-of-a-kind ethical hacking certification exam that assesses a student’s ability to perform a network penetration test at a professional level.
   
-9. Keep updating yourself - Hacking is a long time journey of learning, we must not enter just to hack wifi password or to hack someone’s phone, As time goes by there are new vulnerabilities discovered and patched, thus we must be eager to learn new things
+9. Keep updating yourself - Hacking is a long time journey of learning, we must not enter just to hack WIFI passwords or to hack someone’s phone, As time goes by there are new vulnerabilities discovered and patched, thus we must be eager to learn new things.
 
 ### Course Recomendations
 
@@ -32,7 +32,7 @@ or
 Comptia A+ (https://www.cbtnuggets.com/certification-playlist/comptia-a-plus)
 2. Networking Skills - ITProTV Comptia Network + (https://mega.nz/folder/bm5UUZoS#qIswiU9nj_fxK-czHMMcsA)
 3. Linux Skills - The Linux command Line and Shell Scripting Bible pdf (https://github.com/0xTRAW/Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion)
-4. Programming -  Youtube (Python)😁
+4. Programming -  YouTube (Python)😁
 
 # Sponsor this project
 
