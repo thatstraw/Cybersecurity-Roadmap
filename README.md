@@ -1,8 +1,8 @@
-![](maps/cybersecurityroadmap-pnpt.png)
+![](maps/cybersecurity roadmap-1-v1.png)
 # Cybersecurity-Roadmap
 # The Ultimate Hacker's Roadmap 2022
 
-Donwload the roadmaps here: https://github.com/0xTRAW/Cybersecurity-Roadmap/tree/main/maps
+Donwload the roadmaps here: https://github.com/thatstraw/Cybersecurity-Roadmap/tree/main/maps
 
 1. Basic Computer Skills - Computer skills refer to the knowledge and abilities required to operate computers and related technology.
   
@@ -33,6 +33,11 @@ Comptia A+ (https://www.cbtnuggets.com/certification-playlist/comptia-a-plus)
 2. Networking Skills - ITProTV Comptia Network + (https://mega.nz/folder/bm5UUZoS#qIswiU9nj_fxK-czHMMcsA)
 3. Linux Skills - The Linux command Line and Shell Scripting Bible pdf (https://github.com/0xTRAW/Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion)
 4. Programming -  YouTube (Python)😁
+
+
+## Connect with me here
+- Twitter/X - x.com/thatstraw
+- LinkedIn - linkedin.com/in/thatstraw
 
 # Sponsor this project
 
