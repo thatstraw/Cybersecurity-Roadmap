@@ -1,4 +1,4 @@
-![](maps/cybersecurity roadmap-1-v1.png)
+![](maps/cybersecurity-roadmap-1-v1.png)
 # Cybersecurity-Roadmap
 # The Ultimate Hacker's Roadmap 2022
 
