@@ -36,8 +36,8 @@ Comptia A+ (https://www.cbtnuggets.com/certification-playlist/comptia-a-plus)
 
 
 ## Connect with me here
-- Twitter/X - x.com/thatstraw
-- LinkedIn - linkedin.com/in/thatstraw
+- Twitter/X - httsp://x.com/thatstraw
+- LinkedIn - https://linkedin.com/in/thatstraw
 
 # Sponsor this project
 
